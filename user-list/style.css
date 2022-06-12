@@ -1,0 +1,18 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+#nav-bar {
+  /*   position: fixed; */
+}
+
+#search-form {
+  /*   position: fixed; */
+}
+
+#search-icon {
+  color: #6c757d
+}
